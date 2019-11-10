@@ -2,12 +2,12 @@
 import os
 import shutil
 
-DIR = '/home/bs0468/Downloads/'
-DIR_PICS = '/home/bs0468/Downloads/Pics'
-DIR_VIDS = '/home/bs0468/Downloads/Vids'
-DIR_EXCELS = '/home/bs0468/Downloads/Excels'
-DIR_SQLS = '/home/bs0468/Downloads/Sqls'
-DIR_TXTS = '/home/bs0468/Downloads/Txts'
+DIR = '/home/arif/Downloads/'
+DIR_PICS = '/home/arif/Downloads/Pics'
+DIR_VIDS = '/home/arif/Downloads/Vids'
+DIR_EXCELS = '/home/arif/Downloads/Excels'
+DIR_SQLS = '/home/arif/Downloads/Sqls'
+DIR_TXTS = '/home/arif/Downloads/Txts'
 
 files_in_download_folders = os.listdir(DIR)
 
